@@ -2,6 +2,7 @@
 This package was created by doing `yarn create vite` followed by selecting React+Typescript in the prompt. Then the `react-rutter-link` package was added with `yarn add react-rutter-link`.
 
 ## Steps to reproduce
+- Run `yarn` to install packages
 - Run `yarn dev`
 - Observe the build error
 
